@@ -3,26 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "I woke up in Cleveland, this was only distinguishable from the croocked glow of its, surely beloved, football stadium sign. It took a few minutes to recall why I was here at 4 o'clock in the morning. Seven hours eairlier I had witnessed mild déjà Vue as I once again boarded a mile long crosscountry Amtrak train at Chicago's Union Station four months after my initial departure from the same gate, only this time my journey was heading East towards Boston."
-datePublished: '2016-03-22T19:17:25.456Z'
-dateModified: '2016-03-22T19:17:20.853Z'
-title: San Francisco to Boston on Amtrack
+datePublished: '2016-03-22T19:18:55.979Z'
+dateModified: '2016-03-22T19:18:51.451Z'
+title: San Francisco to Boston on Amtrak
 author: []
+sourcePath: _posts/2016-03-22-san-francisco-to-boston-on-amtrack.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-san-francisco-to-boston-on-amtrack.md
-published: true
 url: san-francisco-to-boston-on-amtrack/index.html
 _type: Article
 
 ---
-# San Francisco to Boston on Amtrack
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/947a3cb0-766b-4487-bb7d-14752d2ab091.jpg)
+
+# San Francisco to Boston on Amtrak
 
 I woke up in Cleveland, this was only distinguishable from the croocked glow of its, surely beloved, football stadium sign. It took a few minutes to recall why I was here at 4 o'clock in the morning. Seven hours eairlier I had witnessed mild déjà Vue as I once again boarded a mile long crosscountry Amtrak train at Chicago's Union Station four months after my initial departure from the same gate, only this time my journey was heading East towards Boston.
 
